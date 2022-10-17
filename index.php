@@ -16,7 +16,7 @@ require_once 'admin/config.php';
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/sweetalert2.min.css">
 	    <meta property="og:title" content="كلية التمريض - جامعة الفيوم">
-    <meta property="og:image" content="http://n-fayoum.tk/assets/images/preview.png">
+    <meta property="og:image" content="https://n-fayoum.herokuapp.com/assets/images/preview.PNG">
 <script type="text/javascript" src="assets/js/sweetalert2.min.js"></script>
 
 	<style>
