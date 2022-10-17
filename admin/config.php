@@ -1,7 +1,7 @@
 <?php 
   date_default_timezone_set("Africa/Cairo");
 
-    $host = '185.27.134.10';
+    $host = 'sql307.epizy.com:3306';
     $user = 'epiz_32810300';
     $pass = 'nFhtzMRp8ls';
     $db = 'epiz_32810300_lms';
