@@ -1,10 +1,10 @@
 <?php 
   date_default_timezone_set("Africa/Cairo");
 
-    $host = 'remotemysql.com';
-    $user = 'L1DMZixNFJ';
-    $pass = 'jwWTjprCBU';
-    $db = 'L1DMZixNFJ';
+    $host = 'sql307.epizy.com';
+    $user = 'epiz_32810300';
+    $pass = 'nFhtzMRp8ls';
+    $db = 'epiz_32810300_lms';
 
     @$conn = mysqli_connect($host, $user, $pass, $db);
 
