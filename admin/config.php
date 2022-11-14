@@ -3,7 +3,7 @@
 
     $host = 'remotemysql.com';
     $user = 'L1DMZixNFJ';
-    $pass = 'jwWTjprCBU';
+    $pass = 'mGN3RhI6jv';
     $db = 'L1DMZixNFJ';
 
     @$conn = mysqli_connect($host, $user, $pass, $db);
